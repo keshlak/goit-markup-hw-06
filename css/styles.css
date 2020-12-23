@@ -344,6 +344,10 @@ ul {
   border-radius: 0px 0px 4px 4px;
 }
 
+.team-members .item img {
+  display: block;
+}
+
 .team-members .member-about {
   background-color: #fff;
   padding: 30px;
